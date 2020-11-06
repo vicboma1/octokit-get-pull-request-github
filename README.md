@@ -38,7 +38,7 @@ const main = async (repo, org) => {
 ```
 
 Result lastPR 
-```
-![](./resources/debug.png)
-```
+
+![](https://github.com/vicboma1/octokit-get-pull-request-github/blob/main/resources/debug.png)
+
 
