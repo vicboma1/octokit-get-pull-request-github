@@ -19,7 +19,7 @@ Run file
 ```
 
 Example 
-```
+```js
 /**
  * Entry Point
  * @param {*} repo 
